@@ -204,7 +204,7 @@ button:hover {
     padding: 16px; 
     margin: auto; 
 } 
- 
+ /* Style for cards */
 .slip { 
     margin: 10px; 
     height: 460px; 
@@ -333,7 +333,7 @@ button:hover {
 
 
 
-
+/* Media Screen */
 
 
 @media screen and (min-width:0px) and (max-width:768px) {
