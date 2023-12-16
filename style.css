@@ -56,6 +56,9 @@ header p, h1 {
 }
 header p {
     color: var(--dark-color);
+    position: absolute;
+    top: 200px;
+    left: 300px;
 }
 
  /* bg-image class Style */
